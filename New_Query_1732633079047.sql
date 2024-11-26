@@ -216,3 +216,4 @@ CREATE TABLE medios_pago (
     id_pago INT PRIMARY KEY AUTO_INCREMENT,
     nombre_pago VARCHAR(100)
 );
+
